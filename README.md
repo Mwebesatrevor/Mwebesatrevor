@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mwebesatrevor
-- 👀 I’m interested in app development and machine learning.
-- 🌱 I’m currently learning flask and django.
-- 💞️ I’m looking to collaborate on projects which have django and flask in them.
+- I am passionate about software development.
 - 📫 How to reach me 
       trevormwebesa@gmail.com
 
