@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @Mwebesatrevor
-- I am passionate about software development.
+Hi👋, I am **Mwebesatrevor** 
+
+I am passionate about web development, app development and machine learning. I am currently studying about machine learning and being able to make better software products.
+
+I like to join differnt teams and communities to be able to create useful things for society.
+
+**Tools**
+[![Tools](https://skillicons.dev/icons?i=py,html,css,js,git,docker,django,vscode)](https://skillicons.dev)
 - 📫 How to reach me 
       trevormwebesa@gmail.com
 
