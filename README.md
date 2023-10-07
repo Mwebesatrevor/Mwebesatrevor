@@ -12,7 +12,7 @@ I like to join differnt teams and communities to be able to create useful things
 
     [![Twitter][1.1]][1] Twitter 
 
-trevormwebesa@gmail.com  Email
+[email](trevormwebesa@gmail.com)  Email
 
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
