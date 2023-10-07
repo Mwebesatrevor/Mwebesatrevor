@@ -5,7 +5,9 @@ I am passionate about web development, app development and machine learning. I a
 I like to join differnt teams and communities to be able to create useful things for society.
 
 **Tools**
+
 [![Tools](https://skillicons.dev/icons?i=py,html,css,js,git,docker,django,vscode)](https://skillicons.dev)
+
 - 📫 How to reach me 
       trevormwebesa@gmail.com
 
