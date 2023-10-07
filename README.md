@@ -10,12 +10,15 @@ I like to join differnt teams and communities to be able to create useful things
 
 - 📫 How to reach me
 
-    [![Twitter][1.1]][1] Twitter 
+    [![Twitter][1.2]][1] Twitter 
 
 trevormwebesa@gmail.com  Email
 
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+<!-- icons without padding -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 <!-- links to your social media accounts -->
 [1]: http://www.twitter.com/MwebesaTrevor
