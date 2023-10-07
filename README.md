@@ -8,8 +8,15 @@ I like to join differnt teams and communities to be able to create useful things
 
 [![](https://skillicons.dev/icons?i=py,html,css,js,git,docker,django,vscode)](https://skillicons.dev)
 
-- 📫 How to reach me 
-      [[Email](trevormwebesa@gmail.com)]
+- 📫 How to reach me
+[![Twitter][1.1]][1] 
+trevormwebesa@gmail.com
+
+<!-- icons with padding -->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+<!-- links to your social media accounts -->
+[1]: http://www.twitter.com/MwebesaTrevor
 
 <!---
 Mwebesatrevor/Mwebesatrevor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
